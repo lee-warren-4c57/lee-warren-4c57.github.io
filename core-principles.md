@@ -10,7 +10,7 @@ The following core principles were given to me by a mentor of mine and help guid
 ### 1. Solve the real problem.
 Whenever possible, solve the real problem. It's hard to explain it better than the following. [Yes, I'm going to quote a "capital-A" Agile guy. It's the dogma that sometimes comes along that can cause concern, not all of the ideas. I'm not entirely sure where this quote of his idea is originally from.]
 
-##### Managing Technical Debt:
+#### Managing Technical Debt:
 Ward Cunningham sometimes compares cleaning up the design with paying off debts. Going further, he discusses managing the technical debt on the project. Making hasty additions to the system corresponds to borrowing against the future, taking on debt. Cleaning up the design corresponds to paying off debt. Sometimes, he points out, it is appropriate to take on debt and make hasty changes in order to take advantage of opportunity. Just as debt accumulates interest and grows over time, though, so does the cost to the project of not cleaning up those hasty design changes. Cut corners in the design, he suggests, when you are willing to take on the debt, and clean up the design to pay off the debt before interest grows too high.
 
 ### 2. Solve the whole problem.
