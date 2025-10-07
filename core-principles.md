@@ -1,3 +1,9 @@
+---
+layout: page
+title: Core Principles
+permalink: /core-principles/
+---
+
 # Core Principles
 The following core principles were given to me by a mentor of mine and help guide my thinking about building software in the large and the small.
 
