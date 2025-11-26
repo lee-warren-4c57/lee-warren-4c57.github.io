@@ -69,7 +69,7 @@ These principles are "rules of thumb" that have proven themselves valuable over 
 - "Timing is everything."
 - The prototypical example: Windows Explorer
 
-### 8. Exceptions solbe some problems, but not all.
+### 8. Exceptions solve some problems, but not all.
 - Don't overuse them.
 - Don't assume because an exception is thrown or caught the error is handled.
 - Exceptions do not free us from being rigorous about error handling.
